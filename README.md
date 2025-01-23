@@ -12,7 +12,11 @@ An experiment to see how much of the job-search grind—applying, resume tweaks,
 - Generates tailored resumes from your code history  
 - Finds and applies to matching job listings  
 - Builds interview prep schedules  
-- Sends cold emails to target companies
+- Sends cold emails to target companies  
+- Get your Market Rate based on skills  
+- Alerts you if you're underpaid and suggests opportunities apt to your skills  
+- Help transition to different domain  
+- Gives motivational reminders during job hunt reminding of past achievements  
 
 ---
 
